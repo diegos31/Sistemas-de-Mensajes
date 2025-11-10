@@ -1,10 +1,4 @@
-Perfecto 💪 Aquí tienes el contenido **listo para copiar y pegar** directamente en el editor de GitHub cuando hagas clic en **“Add a README”**.
 
-Cópialo todo tal cual👇
-
----
-
-````markdown
 # 🌦️ Sistema de Gestión de Logs — Estaciones Meteorológicas
 
 ## 🧑‍💻 Integrantes del Grupo
