@@ -98,7 +98,7 @@ docker ps
 4️⃣ **Acceder a los servicios:**
 
 * RabbitMQ Dashboard → [http://localhost:15672](http://localhost:15672)
-  Usuario: `guest` | Contraseña: `guest`
+  Usuario: `admin` | Contraseña: `secret`
 * PostgreSQL → `localhost:5432`
   Base de datos: `weather_db`
 
